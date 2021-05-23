@@ -27,3 +27,27 @@ body{
 {
     text-decoration: none;
 }
+.search
+{
+    float: left;
+    padding-top: 20px;
+    padding-left: 314px;
+    
+}
+.search-form
+{
+    border-radius: 8px;
+    border-width: 1px;
+}
+.search-form-type
+{
+    border-radius: 8px;
+    border-width: 1px;
+    border:1px solid #e1e4e8;
+    width: 232px;
+    height: 35px;
+    font-size: 14px;
+    background: none;
+    box-shadow: none;
+    
+}
