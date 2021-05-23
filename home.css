@@ -1,11 +1,12 @@
 body{
     margin: 0px;
+    background-color:#040d21;
 }
 .header
 {
     width: 100%;
     height: 70px;
-    background-color:#040d21;
+    
 }
 .logo
 {
@@ -48,6 +49,37 @@ body{
     height: 35px;
     font-size: 14px;
     background: none;
-    box-shadow: none;
+    box-shadow: none;  
+    padding-left: 15px; 
+}
+.signupin
+{
+    padding-top: 20px;
     
+}
+.signin
+{
+    padding-left: 25px;
+    text-decoration: none;
+    font-size: 16px;
+    color: cornsilk;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font: weight 350px;
+}
+.signupbtn
+{
+    height: 38px;
+    width: 72px;
+    text-align: center;
+    border-radius: 8px;
+    border:1px solid #e1e4e8;
+    background: none;
+}
+.signup
+{
+    text-decoration: none;
+    font-size: 14px;
+    color: cornsilk;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font: weight 350px;
 }
