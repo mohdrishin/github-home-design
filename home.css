@@ -82,3 +82,27 @@ body{
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
     font: weight 350px;
 }
+/*.pricing-dropdown
+{
+    color: black;
+    background: #dee5ee;
+    font-size: 14px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font: weight 350px;
+    border:none;
+    background: none;
+}*/
+.details-pricing
+{
+    float: right;
+    list-style: none;
+    box-sizing:border-box;
+    position: relative;
+    display: inline-block;
+}
+details > summary 
+{
+    cursor: pointer;
+    list-style: none;
+}
+
